@@ -1,5 +1,7 @@
 # HubSpot Retainer & Burn Rate Auditor CLI
 
+[![CI](https://github.com/smartprov05/hubspot-retainer-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/smartprov05/hubspot-retainer-auditor/actions/workflows/ci.yml)
+
 A lightweight, zero-dependency Python script to audit client retainer balances, track billable hours burn, and detect unbilled revenue leakage directly in **HubSpot CRM**.
 
 ---
